@@ -33,7 +33,8 @@ site: This operator allows you to search for pages that are within a specific we
 Following searches for all the sites that is in the domain yahoo.com
 ## Output:
 
-![image](https://github.com/Senthil-Kumar-710/Enumeration/assets/93860256/e6543616-a858-4036-84e0-9888dc5e1008)
+![1](https://github.com/Senthil-Kumar-710/Enumeration/assets/93860256/67d1bb74-d519-4992-a780-c250e32a5f11)
+
 
 
 
@@ -42,7 +43,8 @@ Following searches for pdf file in the domain yahoo.com
 
 ## Output:
 
-![image](https://github.com/Senthil-Kumar-710/Enumeration/assets/93860256/aedeb7fa-5071-4ece-be4a-c6f7581bb6c4)
+![2](https://github.com/Senthil-Kumar-710/Enumeration/assets/93860256/1a946332-b3e1-4e4a-8aec-216dbb357c54)
+
 
 
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
@@ -50,7 +52,8 @@ intext: This operator allows you to search for pages that contain specific text 
 
 ## Output:
 
-![image](https://github.com/Senthil-Kumar-710/Enumeration/assets/93860256/3a903d27-f93d-4835-b96c-eacea3f0eff7)
+![3](https://github.com/Senthil-Kumar-710/Enumeration/assets/93860256/dcb53a4d-3c16-4797-bbad-4a3166d59089)
+
 
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
@@ -58,7 +61,8 @@ inurl: This operator allows you to search for pages that contain specific text w
 
 ## Output:
 
-![image](https://github.com/Senthil-Kumar-710/Enumeration/assets/93860256/b2641bd8-22a0-4f02-9fee-0c088c20d974)
+![4](https://github.com/Senthil-Kumar-710/Enumeration/assets/93860256/8caeaff2-c255-412f-a60d-c813dec68339)
+
 
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
@@ -66,7 +70,8 @@ intitle: This operator allows you to search for pages that contain specific text
 
 ## Output:
 
-![image](https://github.com/Senthil-Kumar-710/Enumeration/assets/93860256/cd78f8d2-a576-4f17-ac84-7f7c7c276a43)
+![5](https://github.com/Senthil-Kumar-710/Enumeration/assets/93860256/a0dfd8a5-3a0d-4cac-a649-646bfa5234ae)
+
 
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:amazon.in" would search for pages that link to the example.com domain.
@@ -74,7 +79,8 @@ link: This operator allows you to search for pages that link to a specific URL. 
 
 ## Output:
 
-![image](https://github.com/Senthil-Kumar-710/Enumeration/assets/93860256/c77b37f8-2a92-4fb0-8645-aa51645217ff)
+![6](https://github.com/Senthil-Kumar-710/Enumeration/assets/93860256/c3efd1ae-05eb-4c3c-905c-3ed682e478bd)
+
 
 
 
@@ -83,7 +89,8 @@ cache: This operator allows you to view the cached version of a page. For exampl
 
 ## Output:
 
-![image](https://github.com/Senthil-Kumar-710/Enumeration/assets/93860256/0dfbb28f-a422-4d63-a415-ecb7449906f4)
+![7](https://github.com/Senthil-Kumar-710/Enumeration/assets/93860256/9bec8783-843e-4dd1-83d6-78325ef0db45)
+
 
 
  
